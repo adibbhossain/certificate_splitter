@@ -31,7 +31,7 @@ Example:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/certificate-splitter.git
+git clone https://github.com/adibbhossain/certificate-splitter.git
 cd certificate-splitter
 ```
 
